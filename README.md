@@ -57,3 +57,6 @@ I learned how to use github through terminal:
 - can also delete on remote by using
 - git push <remote name> --delete <other branch name>
 
+- can push this text file onto local by saving the file into the repository, then checking status (or diff) to see, then adding file name and committing
+- then we can push to github
+
